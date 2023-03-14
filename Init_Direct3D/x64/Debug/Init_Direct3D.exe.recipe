@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\2023학년도\1.수업관련\동계방과후\다렉\Init_DirectX12\Rendering_Animation\x64\Debug\Init_Direct3D.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\2023학년도\1.수업관련\동계방과후\다렉\Init_DirectX12\Rendering_Animation\x64\Debug\Color.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2023학년도\1.수업관련\동계방과후\다렉\Init_DirectX12\Rendering_Animation\x64\Debug\LightingUtil.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2023학년도\1.수업관련\동계방과후\다렉\Init_DirectX12\Rendering_Animation\x64\Debug\ShadowDebug.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2023학년도\1.수업관련\동계방과후\다렉\Init_DirectX12\Rendering_Animation\x64\Debug\Shadows.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2023학년도\1.수업관련\동계방과후\다렉\Init_DirectX12\Rendering_Animation\x64\Debug\Skybox.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2023학년도\1.수업관련\동계방과후\다렉\Init_DirectX12\Rendering_Animation\x64\Debug\Params.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
